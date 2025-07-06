@@ -32,4 +32,4 @@ Strategic opportunities exist to improve customer engagement, optimize shipping 
 
 ---
 
-🔗 Made with 💻 by [Winner Usunobu](https://github.com/WinnerUsername)
+🔗 Made with 💻 by [Winner Usunobu](https://github.com/whinnysmart)
