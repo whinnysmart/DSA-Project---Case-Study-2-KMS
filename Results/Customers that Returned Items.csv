@@ -1,0 +1,845 @@
+"Order ID","Customer Name","Customer Segment","Order Date",Status
+65,"Tamara Dahlen",Corporate,3/17/2011,Returned
+69,"Jonathan Doherty",Corporate,06/03/2009,Returned
+69,"Jonathan Doherty",Corporate,06/03/2009,Returned
+230,"Erin Creighton",Corporate,10/26/2010,Returned
+230,"Erin Creighton",Corporate,10/26/2010,Returned
+324,"Frank Gastineau","Small Business",3/19/2012,Returned
+359,"Cari Sayre",Corporate,12/18/2009,Returned
+612,"Sheri Gordon",Corporate,10/20/2012,Returned
+612,"Sheri Gordon",Corporate,10/20/2012,Returned
+614,"Dave Hallsten",Corporate,11/30/2012,Returned
+614,"Dave Hallsten",Corporate,11/30/2012,Returned
+678,"Dorothy Badders","Home Office",2/26/2010,Returned
+710,"Susan MacKendrick",Corporate,01/01/2010,Returned
+710,"Susan MacKendrick",Corporate,01/01/2010,Returned
+710,"Susan MacKendrick",Corporate,01/01/2010,Returned
+740,"Thomas Boland",Corporate,7/15/2011,Returned
+775,"Peter McVee","Small Business",3/17/2011,Returned
+775,"Peter McVee","Small Business",3/17/2011,Returned
+833,"Olvera Toch","Home Office",02/12/2009,Returned
+902,"Meg O'Connel",Corporate,7/26/2009,Returned
+928,"Anthony O'Donnell",Consumer,03/01/2011,Returned
+928,"Anthony O'Donnell",Consumer,03/01/2011,Returned
+930,"Phillina Ober","Small Business",12/16/2009,Returned
+930,"Phillina Ober","Small Business",12/16/2009,Returned
+1060,"Harold Dahlen",Corporate,2/20/2010,Returned
+1285,"Sally Matthias",Corporate,5/31/2012,Returned
+1285,"Sally Matthias",Corporate,5/31/2012,Returned
+1317,"Janet Lee",Consumer,5/18/2011,Returned
+1317,"Janet Lee",Consumer,5/18/2011,Returned
+1317,"Janet Lee",Consumer,5/18/2011,Returned
+1382,"Corey Catlett","Home Office",8/16/2010,Returned
+1382,"Corey Catlett","Home Office",8/16/2010,Returned
+1382,"Corey Catlett","Home Office",8/16/2010,Returned
+1538,"Ted Trevino",Corporate,6/17/2011,Returned
+1665,"John Lucas",Corporate,05/07/2009,Returned
+1921,"Benjamin Venier","Small Business",1/17/2009,Returned
+2050,"James Galang",Consumer,06/01/2009,Returned
+2050,"James Galang",Consumer,06/01/2009,Returned
+2052,"Rob Lucas","Small Business",04/12/2012,Returned
+2055,"Nora Paige","Small Business",09/03/2010,Returned
+2146,"Todd Boyes","Small Business",9/13/2012,Returned
+2146,"Todd Boyes","Small Business",9/13/2012,Returned
+2213,"Sam Zeldin","Small Business",1/14/2010,Returned
+2240,"Sarah Brown",Consumer,03/05/2012,Returned
+2240,"Sarah Brown",Consumer,03/05/2012,Returned
+2500,"Bobby Elias","Small Business",8/14/2012,Returned
+2503,"Maria Zettner",Corporate,6/19/2010,Returned
+2503,"Maria Zettner",Corporate,6/19/2010,Returned
+2503,"Maria Zettner",Corporate,6/19/2010,Returned
+2562,"Cindy Chapman",Consumer,7/31/2012,Returned
+2562,"Cindy Chapman",Consumer,7/31/2012,Returned
+2562,"Cindy Chapman",Consumer,7/31/2012,Returned
+2823,"Robert Waldorf","Home Office",09/08/2011,Returned
+2823,"Robert Waldorf","Home Office",09/08/2011,Returned
+2915,"Tim Brockman",Consumer,3/30/2009,Returned
+2915,"Tim Brockman",Consumer,3/30/2009,Returned
+3300,"Bryan Spruell","Home Office",7/14/2011,Returned
+3456,"George Zrebassa","Small Business",5/31/2010,Returned
+3525,"Bryan Spruell","Home Office",12/21/2011,Returned
+3589,"Denise Leinenbach","Home Office",5/25/2009,Returned
+3687,"Marc Harrigan","Home Office",02/02/2010,Returned
+3777,"Christine Kargatis","Small Business",04/07/2009,Returned
+3783,"Jonathan Doherty",Corporate,12/05/2010,Returned
+3783,"Jonathan Doherty",Corporate,12/05/2010,Returned
+4006,"Jas O'Carroll",Corporate,01/03/2011,Returned
+4037,"Bruce Stewart",Corporate,3/23/2010,Returned
+4230,"Tamara Willingham",Corporate,03/03/2012,Returned
+4230,"Tamara Willingham",Corporate,03/03/2012,Returned
+4261,"Lela Donovan",Corporate,10/02/2012,Returned
+4261,"Lela Donovan",Corporate,10/02/2012,Returned
+4261,"Lela Donovan",Corporate,10/02/2012,Returned
+4261,"Lela Donovan",Corporate,10/02/2012,Returned
+4391,"Eugene Moren","Home Office",2/17/2012,Returned
+4610,"Odella Nelson","Small Business",6/17/2010,Returned
+4610,"Odella Nelson","Small Business",6/17/2010,Returned
+4738,"David Kendrick","Home Office",04/07/2012,Returned
+4864,"Ralph Kennedy",Corporate,11/10/2012,Returned
+4960,"Corinna Mitchell",Corporate,2/25/2011,Returned
+4960,"Corinna Mitchell",Corporate,2/25/2011,Returned
+5028,"Art Miller",Corporate,4/16/2012,Returned
+5059,"Randy Bradley","Small Business",11/09/2010,Returned
+5061,"Sean Wendt",Corporate,8/13/2010,Returned
+5189,"Evan Henry",Corporate,11/25/2010,Returned
+5189,"Evan Henry",Corporate,11/25/2010,Returned
+5189,"Evan Henry",Corporate,11/25/2010,Returned
+5381,"Edward Nazzal","Home Office",1/28/2010,Returned
+5381,"Edward Nazzal","Home Office",1/28/2010,Returned
+5414,"Michelle Tran",Corporate,3/24/2010,Returned
+5511,"Art Ferguson",Corporate,11/28/2009,Returned
+5511,"Art Ferguson",Corporate,11/28/2009,Returned
+5699,"Sean Miller","Small Business",7/29/2012,Returned
+5699,"Sean Miller","Small Business",7/29/2012,Returned
+6054,"Aleksandra Gannaway",Corporate,09/08/2011,Returned
+6054,"Aleksandra Gannaway",Corporate,09/08/2011,Returned
+6241,"Henry Goldwyn","Small Business",12/29/2009,Returned
+6241,"Henry Goldwyn","Small Business",12/29/2009,Returned
+6272,"Randy Ferguson",Corporate,2/27/2010,Returned
+6272,"Randy Ferguson",Corporate,2/27/2010,Returned
+6272,"Randy Ferguson",Corporate,2/27/2010,Returned
+6498,"Julie Prescott","Home Office",3/17/2009,Returned
+6500,"Tony Sayre","Home Office",10/12/2012,Returned
+6500,"Tony Sayre","Home Office",10/12/2012,Returned
+6502,"Max Jones","Home Office",8/20/2011,Returned
+6661,"Clytie Kelty","Small Business",4/16/2010,Returned
+6661,"Clytie Kelty","Small Business",4/16/2010,Returned
+6695,"Natalie Webber",Corporate,6/27/2012,Returned
+6757,"Brooke Gillingham","Small Business",02/01/2012,Returned
+6757,"Brooke Gillingham","Small Business",02/01/2012,Returned
+6978,"Art Foster","Home Office",12/09/2010,Returned
+6979,"Keith Dawkins","Home Office",2/27/2009,Returned
+7079,"Brenda Bowman","Small Business",02/08/2010,Returned
+7107,"Steve Chapman",Corporate,01/04/2012,Returned
+7107,"Steve Chapman",Corporate,01/04/2012,Returned
+7107,"Steve Chapman",Corporate,01/04/2012,Returned
+7203,"Ruben Dartt",Corporate,01/08/2009,Returned
+7269,"Muhammed Yedwab",Consumer,9/14/2009,Returned
+7364,"Mary Zewe",Corporate,05/08/2009,Returned
+7521,"Mark Packer","Small Business",2/27/2011,Returned
+7744,"Kean Nguyen",Corporate,11/17/2009,Returned
+7744,"Kean Nguyen",Corporate,11/17/2009,Returned
+7812,"Karl Brown",Corporate,4/20/2011,Returned
+7812,"Karl Brown",Corporate,4/20/2011,Returned
+7815,"Amy Hunt","Home Office",1/22/2009,Returned
+7841,"Darren Budd",Consumer,5/20/2012,Returned
+7841,"Darren Budd",Consumer,5/20/2012,Returned
+7845,"Todd Boyes","Small Business",12/13/2009,Returned
+8034,"Dennis Pardue",Corporate,1/19/2012,Returned
+8034,"Dennis Pardue",Corporate,1/19/2012,Returned
+8034,"Dennis Pardue",Corporate,1/19/2012,Returned
+8133,"Neil French",Corporate,2/26/2011,Returned
+8292,"Ellis Ballard",Corporate,02/01/2010,Returned
+8293,"Jason Klamczynski","Small Business",08/10/2012,Returned
+8293,"Jason Klamczynski","Small Business",08/10/2012,Returned
+8353,"Brendan Sweed",Consumer,5/15/2009,Returned
+8353,"Brendan Sweed",Consumer,5/15/2009,Returned
+8961,"Jessica Myrick","Small Business",6/28/2011,Returned
+8961,"Jessica Myrick","Small Business",6/28/2011,Returned
+9027,"Roy French",Consumer,09/02/2011,Returned
+9093,"Cyra Reiten",Consumer,12/09/2011,Returned
+9152,"Steven Cartwright","Home Office",8/20/2010,Returned
+9219,"Craig Leslie",Consumer,9/28/2009,Returned
+9219,"Craig Leslie",Consumer,9/28/2009,Returned
+9472,"Greg Tran","Home Office",6/16/2011,Returned
+9574,"Joy Smith",Corporate,7/30/2011,Returned
+9696,"Harold Dahlen",Corporate,2/19/2011,Returned
+9696,"Harold Dahlen",Corporate,2/19/2011,Returned
+9701,"Herbert Flentye","Small Business",2/27/2010,Returned
+9762,"Larry Tron","Home Office",01/03/2009,Returned
+9829,"Valerie Takahito",Consumer,12/08/2011,Returned
+9829,"Valerie Takahito",Consumer,12/08/2011,Returned
+9895,"Adam Bellavance","Small Business",4/20/2010,Returned
+9923,"Chad Sievert",Corporate,10/05/2009,Returned
+9923,"Chad Sievert",Corporate,10/05/2009,Returned
+9927,"Grant Carroll",Corporate,8/16/2011,Returned
+9927,"Grant Carroll",Corporate,8/16/2011,Returned
+9927,"Grant Carroll",Corporate,8/16/2011,Returned
+10054,"Helen Wasserman","Home Office",4/28/2011,Returned
+10054,"Helen Wasserman","Home Office",4/28/2011,Returned
+10183,"Darren Budd",Corporate,11/24/2009,Returned
+10498,"Jesus Ocampo","Small Business",10/23/2010,Returned
+10662,"Aaron Hawkins","Home Office",05/12/2011,Returned
+10917,"Alice McCarthy",Corporate,02/10/2012,Returned
+11271,"Berenike Kampe",Corporate,10/18/2011,Returned
+11396,"Matt Connell",Corporate,7/21/2012,Returned
+11425,"Patrick Bzostek",Consumer,6/22/2011,Returned
+11425,"Patrick Bzostek",Consumer,6/22/2011,Returned
+11426,"Laurel Beltran",Consumer,05/07/2009,Returned
+11648,"Brian DeCherney",Corporate,04/09/2011,Returned
+11648,"Brian DeCherney",Corporate,04/09/2011,Returned
+11652,"Olvera Toch","Home Office",11/10/2011,Returned
+11652,"Olvera Toch","Home Office",11/10/2011,Returned
+11652,"Olvera Toch","Home Office",11/10/2011,Returned
+11652,"Olvera Toch","Home Office",11/10/2011,Returned
+11682,"Brad Thomas","Home Office",07/04/2010,Returned
+11748,"Tamara Willingham",Corporate,06/03/2009,Returned
+11909,"Stephanie Phelps",Consumer,11/24/2009,Returned
+12005,"Dean Percer","Home Office",6/24/2012,Returned
+12067,"Toby Swindell","Small Business",02/04/2010,Returned
+12067,"Toby Swindell","Small Business",02/04/2010,Returned
+12067,"Toby Swindell","Small Business",02/04/2010,Returned
+12096,"Michelle Lonsdale","Home Office",9/19/2012,Returned
+12096,"Michelle Lonsdale","Home Office",9/19/2012,Returned
+12262,"Julia Barnett","Home Office",12/10/2011,Returned
+12263,"Dan Lawera",Corporate,07/06/2011,Returned
+12389,"Michael Granlund",Corporate,08/04/2009,Returned
+12389,"Michael Granlund",Corporate,08/04/2009,Returned
+12451,"Thais Sissman","Small Business",4/19/2010,Returned
+12451,"Thais Sissman","Small Business",4/19/2010,Returned
+12483,"Tom Zandusky","Home Office",08/04/2010,Returned
+12483,"Tom Zandusky","Home Office",08/04/2010,Returned
+12483,"Tom Zandusky","Home Office",08/04/2010,Returned
+12580,"Dave Poirier","Small Business",1/13/2010,Returned
+12580,"Dave Poirier","Small Business",1/13/2010,Returned
+12613,"Richard Eichhorn",Consumer,04/10/2010,Returned
+12613,"Richard Eichhorn",Consumer,04/10/2010,Returned
+12613,"Richard Eichhorn",Consumer,04/10/2010,Returned
+12704,"Carlos Soltero","Small Business",02/09/2010,Returned
+12704,"Carlos Soltero","Small Business",02/09/2010,Returned
+12706,"Dave Kipp",Corporate,11/20/2009,Returned
+12710,"John Castell","Small Business",8/17/2010,Returned
+12806,"Sonia Sunley","Small Business",12/24/2011,Returned
+12900,"Laurel Elliston",Corporate,05/03/2010,Returned
+12900,"Laurel Elliston",Corporate,05/03/2010,Returned
+12903,"Sue Ann Reed",Consumer,9/25/2009,Returned
+13091,"Arthur Wiediger",Corporate,11/15/2009,Returned
+13091,"Arthur Wiediger",Corporate,11/15/2009,Returned
+13158,"Kelly Williams",Corporate,11/20/2012,Returned
+13218,"Victoria Pisteka",Corporate,5/16/2009,Returned
+13218,"Victoria Pisteka",Corporate,5/16/2009,Returned
+13284,"Muhammed Lee",Consumer,08/12/2012,Returned
+13284,"Muhammed Lee",Consumer,08/12/2012,Returned
+13410,"Bobby Odegard",Corporate,06/06/2010,Returned
+13410,"Bobby Odegard",Corporate,06/06/2010,Returned
+13444,"Pete Armstrong",Consumer,01/05/2012,Returned
+13638,"Steve Nguyen",Consumer,9/30/2011,Returned
+13765,"Scot Wooten",Corporate,04/05/2009,Returned
+13959,"Alex Russell","Home Office",04/04/2009,Returned
+13959,"Alex Russell","Home Office",04/04/2009,Returned
+13984,"Khloe Miller","Home Office",9/24/2012,Returned
+13986,"Kristina Nunn",Consumer,10/11/2011,Returned
+14176,"Resi Polking","Small Business",03/12/2009,Returned
+14242,"Dennis Pardue",Corporate,05/08/2011,Returned
+14406,"Charles Sheldon",Corporate,03/08/2010,Returned
+14406,"Charles Sheldon",Corporate,03/08/2010,Returned
+14406,"Charles Sheldon",Corporate,03/08/2010,Returned
+14497,"Sung Pak","Small Business",5/20/2012,Returned
+14528,"Karl Brown","Home Office",6/15/2009,Returned
+14534,"Valerie Dominguez",Corporate,7/18/2010,Returned
+14820,"Michael Dominguez","Home Office",01/09/2012,Returned
+14951,"Denise Monton","Home Office",5/17/2011,Returned
+14951,"Denise Monton","Home Office",5/17/2011,Returned
+15009,"Erica Hernandez","Small Business",12/21/2011,Returned
+15009,"Erica Hernandez","Small Business",12/21/2011,Returned
+15106,"Dorothy Badders","Home Office",1/27/2011,Returned
+15106,"Dorothy Badders","Home Office",1/27/2011,Returned
+15106,"Dorothy Badders","Home Office",1/27/2011,Returned
+15202,"Darrin Sayre",Consumer,07/09/2010,Returned
+15206,"Rob Lucas","Small Business",11/04/2010,Returned
+15303,"Fred Harton","Home Office",9/13/2010,Returned
+15303,"Fred Harton","Home Office",9/13/2010,Returned
+15712,"Natalie Webber",Corporate,12/04/2012,Returned
+15718,"Sean O'Donnell",Corporate,1/27/2009,Returned
+15718,"Sean O'Donnell",Corporate,1/27/2009,Returned
+15718,"Sean O'Donnell",Corporate,1/27/2009,Returned
+15778,"Barry Blumstein","Small Business",05/06/2010,Returned
+15872,"Helen Andreada",Corporate,10/30/2012,Returned
+15872,"Helen Andreada",Corporate,10/30/2012,Returned
+15904,"Trudy Brown","Small Business",10/27/2009,Returned
+15904,"Trudy Brown","Small Business",10/27/2009,Returned
+16134,"Nathan Mautz","Home Office",11/19/2012,Returned
+16582,"Katherine Nockton","Home Office",10/01/2011,Returned
+16641,"Bryan Spruell","Home Office",05/10/2010,Returned
+16679,"Ryan Crowe","Small Business",11/08/2009,Returned
+16864,"Cindy Chapman",Consumer,10/29/2012,Returned
+16961,"Tracy Collins",Consumer,01/06/2009,Returned
+16961,"Tracy Collins",Consumer,01/06/2009,Returned
+17058,"Gary Hwang","Home Office",01/01/2011,Returned
+17155,"Cari Sayre","Home Office",1/28/2009,Returned
+17155,"Cari Sayre","Home Office",1/28/2009,Returned
+17255,"Dorris Love","Home Office",7/14/2010,Returned
+17282,"Denise Monton","Home Office",11/18/2009,Returned
+17313,"Scott Cohen",Consumer,05/07/2009,Returned
+17508,"Roy Skaria",Corporate,6/27/2012,Returned
+17668,"Erin Creighton",Corporate,11/25/2009,Returned
+17668,"Erin Creighton",Corporate,11/25/2009,Returned
+17668,"Erin Creighton",Corporate,11/25/2009,Returned
+17858,"Becky Castell",Consumer,9/25/2010,Returned
+17858,"Becky Castell",Consumer,9/25/2010,Returned
+17858,"Becky Castell",Consumer,9/25/2010,Returned
+17985,"Duane Benoit","Home Office",04/12/2011,Returned
+17985,"Duane Benoit","Home Office",04/12/2011,Returned
+17988,"Anthony Garverick","Small Business",9/22/2010,Returned
+18119,"Trudy Bell",Consumer,6/24/2009,Returned
+18215,"Eugene Moren","Home Office",9/19/2010,Returned
+18336,"Giulietta Dortch",Consumer,4/24/2009,Returned
+18496,"Larry Tron",Corporate,5/15/2009,Returned
+18496,"Larry Tron",Corporate,5/15/2009,Returned
+18533,"Larry Hughes","Home Office",11/06/2009,Returned
+18533,"Larry Hughes","Home Office",11/06/2009,Returned
+18593,"Tamara Manning",Corporate,9/22/2011,Returned
+18593,"Tamara Manning",Corporate,9/22/2011,Returned
+18661,"Erin Creighton",Corporate,09/08/2012,Returned
+18661,"Erin Creighton",Corporate,09/08/2012,Returned
+18689,"Steven Roelle","Small Business",12/24/2009,Returned
+18689,"Steven Roelle","Small Business",12/24/2009,Returned
+18753,"Erin Creighton",Corporate,7/31/2009,Returned
+18822,"Cynthia Arntzen","Small Business",12/21/2010,Returned
+18919,"Rob Williams","Home Office",6/28/2009,Returned
+19010,"Grant Carroll","Small Business",06/07/2009,Returned
+19078,"Brendan Dodson",Corporate,7/27/2009,Returned
+19138,"Carlos Daly","Home Office",09/05/2011,Returned
+19523,"Jim Sink",Corporate,11/30/2011,Returned
+19616,"Katherine Nockton",Corporate,12/22/2011,Returned
+19616,"Katherine Nockton",Corporate,12/22/2011,Returned
+19718,"Victor Price",Consumer,6/24/2012,Returned
+20036,"John Lee",Corporate,12/05/2010,Returned
+20036,"John Lee",Corporate,12/05/2010,Returned
+20036,"John Lee",Corporate,12/05/2010,Returned
+20036,"John Lee",Corporate,12/05/2010,Returned
+20134,"James Lanier",Corporate,03/12/2011,Returned
+20134,"James Lanier",Corporate,03/12/2011,Returned
+20389,"Liz Price",Corporate,08/11/2009,Returned
+20389,"Liz Price",Corporate,08/11/2009,Returned
+20389,"Liz Price",Corporate,08/11/2009,Returned
+20453,"Magdelene Morse","Home Office",03/10/2011,Returned
+20453,"Magdelene Morse","Home Office",03/10/2011,Returned
+20480,"Liz MacKendrick",Corporate,1/29/2009,Returned
+20480,"Liz MacKendrick",Corporate,1/29/2009,Returned
+20486,"Alejandro Grove",Corporate,03/05/2011,Returned
+20704,"Justin Ellison","Home Office",02/10/2010,Returned
+20704,"Justin Ellison","Home Office",02/10/2010,Returned
+20704,"Justin Ellison","Home Office",02/10/2010,Returned
+20743,"Roger Demir",Consumer,12/15/2011,Returned
+20864,"Dianna Vittorini",Corporate,12/06/2011,Returned
+20899,"Arthur Prichep","Home Office",04/12/2010,Returned
+20934,"Bill Eplett",Corporate,1/20/2010,Returned
+21222,"Carol Darley","Home Office",02/03/2009,Returned
+21222,"Carol Darley","Home Office",02/03/2009,Returned
+21286,"Denny Ordway","Small Business",5/16/2009,Returned
+21346,"Joni Wasserman",Consumer,06/07/2011,Returned
+21383,"Rick Reed",Consumer,1/30/2009,Returned
+21729,"Xylona Price",Corporate,12/06/2012,Returned
+21729,"Xylona Price",Corporate,12/06/2012,Returned
+21824,"Dave Hallsten","Home Office",02/07/2011,Returned
+21890,"Amy Cox","Small Business",1/24/2011,Returned
+21890,"Amy Cox","Small Business",1/24/2011,Returned
+22181,"Alan Hwang",Corporate,10/07/2011,Returned
+22402,"Brad Thomas","Home Office",5/27/2009,Returned
+22402,"Brad Thomas","Home Office",5/27/2009,Returned
+22627,"Bill Shonely","Small Business",04/03/2010,Returned
+22627,"Bill Shonely","Small Business",04/03/2010,Returned
+22656,"Evan Minnotte",Corporate,12/22/2010,Returned
+22661,"Dianna Vittorini",Corporate,9/26/2010,Returned
+22787,"Ricardo Block",Corporate,04/05/2011,Returned
+22820,"Craig Yedwab",Consumer,8/17/2010,Returned
+22947,"Sarah Jordon",Consumer,12/18/2009,Returned
+22950,"Mike Caudle",Corporate,12/21/2011,Returned
+23076,"Dan Reichenbach",Corporate,5/27/2009,Returned
+23168,"Darren Budd","Home Office",9/15/2010,Returned
+23488,"Julia West","Home Office",01/06/2009,Returned
+23488,"Julia Barnett","Home Office",01/06/2009,Returned
+23557,"Keith Dawkins","Home Office",5/31/2011,Returned
+23559,"Cynthia Arntzen","Home Office",7/18/2010,Returned
+23559,"Cynthia Arntzen","Home Office",7/18/2010,Returned
+23616,"Becky Martin","Home Office",8/28/2012,Returned
+23619,"Nora Paige","Small Business",12/21/2012,Returned
+23619,"Nora Paige","Small Business",12/21/2012,Returned
+23619,"Nora Paige","Small Business",12/21/2012,Returned
+23748,"Naresj Patel","Small Business",08/10/2012,Returned
+24066,"Gary Hwang","Home Office",4/13/2012,Returned
+24519,"Duane Huffman",Consumer,06/11/2011,Returned
+24707,"Don Weiss",Corporate,03/10/2012,Returned
+24707,"Don Weiss",Corporate,03/10/2012,Returned
+24902,"Mike Gockenbach",Consumer,5/26/2010,Returned
+25095,"Brian Stugart",Consumer,1/25/2011,Returned
+25095,"Brian Stugart",Consumer,1/25/2011,Returned
+25152,"Matt Connell",Corporate,10/15/2012,Returned
+25157,"Tony Molinari",Corporate,5/25/2010,Returned
+25157,"Tony Molinari",Corporate,5/25/2010,Returned
+25478,"Jim Kriz",Consumer,4/24/2012,Returned
+25478,"Jim Kriz",Consumer,4/24/2012,Returned
+25479,"Bill Eplett",Corporate,4/28/2011,Returned
+25735,"Lisa DeCherney",Consumer,12/30/2010,Returned
+25799,"Saphhira Shifley",Corporate,2/24/2011,Returned
+25828,"Michael Oakman","Small Business",11/23/2010,Returned
+25828,"Michael Oakman","Small Business",11/23/2010,Returned
+25828,"Michael Oakman","Small Business",11/23/2010,Returned
+25952,"Ed Braxton","Home Office",09/04/2010,Returned
+26240,"Carlos Soltero",Consumer,12/19/2009,Returned
+26240,"Carlos Soltero",Consumer,12/19/2009,Returned
+26372,"Ralph Kennedy",Corporate,07/12/2009,Returned
+26784,"Christy Brittain",Consumer,7/23/2010,Returned
+26784,"Christy Brittain",Consumer,7/23/2010,Returned
+26852,"Jim Kriz",Consumer,03/06/2010,Returned
+26881,"Ken Dana","Small Business",08/01/2009,Returned
+26982,"Clytie Kelty","Small Business",4/28/2012,Returned
+27137,"Alyssa Tate","Small Business",12/31/2011,Returned
+27490,"Daniel Raglin",Corporate,3/14/2012,Returned
+27712,"Speros Goranitis",Corporate,03/04/2010,Returned
+27744,"Pete Kriz",Corporate,08/03/2010,Returned
+27750,"John Murray","Small Business",10/19/2012,Returned
+27750,"John Murray","Small Business",10/19/2012,Returned
+134,NULL,NULL,NULL,Returned
+11911,NULL,NULL,NULL,Returned
+28455,"Jack O'Briant","Small Business",5/30/2010,Returned
+28455,"Jack O'Briant","Small Business",5/30/2010,Returned
+28928,"Nora Pelletier",Corporate,4/30/2010,Returned
+28928,"Nora Pelletier",Corporate,4/30/2010,Returned
+28928,"Nora Pelletier",Corporate,4/30/2010,Returned
+29506,"Scott Cohen",Consumer,6/14/2011,Returned
+29506,"Scott Cohen",Consumer,6/14/2011,Returned
+29861,"Brad Eason","Small Business",4/25/2012,Returned
+31682,"Carlos Meador",Corporate,03/09/2010,Returned
+31844,"Harold Pawlan","Small Business",07/02/2011,Returned
+31907,NULL,NULL,NULL,Returned
+32036,"Pauline Chand",Corporate,10/05/2011,Returned
+32036,"Pauline Chand",Corporate,10/05/2011,Returned
+32901,"Neil Knudson",Corporate,01/10/2011,Returned
+32996,"Janet Lee",Consumer,12/17/2010,Returned
+32996,"Janet Lee",Consumer,12/17/2010,Returned
+33921,"Daniel Lacy","Small Business",3/30/2010,Returned
+34117,"Tony Sayre","Small Business",02/07/2012,Returned
+34338,"Sonia Cooley",Corporate,6/30/2010,Returned
+34658,"Alan Hwang","Small Business",11/18/2010,Returned
+34916,"Theresa Swint",Consumer,08/09/2010,Returned
+35137,"Joe Elijah","Home Office",7/17/2010,Returned
+35137,"Joe Elijah","Home Office",7/17/2010,Returned
+35366,"Raymond Book",Consumer,07/12/2011,Returned
+35492,"Janet Martin",Corporate,02/10/2012,Returned
+35554,"Darren Budd",Consumer,9/24/2012,Returned
+35687,"Gary Hwang","Home Office",11/18/2011,Returned
+36067,"Dave Poirier","Small Business",07/04/2009,Returned
+36262,"Aaron Bergman",Corporate,7/27/2010,Returned
+36262,"Aaron Bergman",Corporate,7/27/2010,Returned
+36262,"Aaron Bergman",Corporate,7/27/2010,Returned
+36705,"Sam Zeldin","Small Business",6/25/2009,Returned
+36772,"Frank Hawley","Home Office",5/15/2010,Returned
+36772,"Frank Hawley","Home Office",5/15/2010,Returned
+36772,"Frank Hawley","Home Office",5/15/2010,Returned
+36992,"Aleksandra Gannaway",Corporate,12/07/2009,Returned
+36994,"Mitch Gastineau",Corporate,6/17/2011,Returned
+36999,"Cari MacIntyre",Corporate,12/12/2009,Returned
+36999,"Cari MacIntyre",Corporate,12/12/2009,Returned
+37250,"Grant Thornton",Corporate,1/14/2010,Returned
+37860,"Mike Pelletier",Corporate,8/27/2010,Returned
+38210,"Ben Ferrer",Corporate,12/12/2010,Returned
+38400,"Candace McMahon",Corporate,12/14/2009,Returned
+38530,"Dave Hallsten","Home Office",4/17/2011,Returned
+38596,"Aleksandra Gannaway",Corporate,04/02/2010,Returned
+39075,"Quincy Jones",Corporate,2/19/2012,Returned
+40132,"Hunter Glantz",Corporate,2/23/2012,Returned
+40132,"Hunter Glantz",Corporate,2/23/2012,Returned
+40132,"Hunter Glantz",Corporate,2/23/2012,Returned
+41216,"Kean Takahito","Home Office",07/01/2009,Returned
+41216,"Kean Takahito","Home Office",07/01/2009,Returned
+42375,"Jas O'Carroll","Home Office",10/01/2010,Returned
+42945,"Quincy Jones",Corporate,12/29/2012,Returned
+43269,"James Lanier",Corporate,04/10/2009,Returned
+43269,"James Lanier",Corporate,04/10/2009,Returned
+43488,"Michelle Huthwaite","Home Office",6/18/2012,Returned
+43488,"Michelle Huthwaite","Home Office",6/18/2012,Returned
+43488,"Michelle Huthwaite","Home Office",6/18/2012,Returned
+43488,"Michelle Huthwaite","Home Office",6/18/2012,Returned
+43488,"Michelle Huthwaite","Home Office",6/18/2012,Returned
+43494,"Jill Matthias",Consumer,01/03/2012,Returned
+44486,"Tom Prescott","Small Business",07/09/2012,Returned
+45863,"Patrick Jones","Home Office",9/19/2010,Returned
+46276,"Sean Miller","Small Business",12/09/2012,Returned
+46276,"Sean Miller","Small Business",12/09/2012,Returned
+46662,"Aaron Hawkins","Home Office",12/29/2011,Returned
+46662,"Aaron Hawkins","Home Office",12/29/2011,Returned
+46662,"Aaron Hawkins","Home Office",12/29/2011,Returned
+46852,"Sean Braxton","Small Business",1/28/2012,Returned
+47876,"Greg Guthrie","Small Business",12/25/2009,Returned
+47910,"Brad Thomas","Home Office",8/15/2009,Returned
+48321,"Tim Brockman",Consumer,7/29/2010,Returned
+48487,NULL,NULL,NULL,Returned
+48615,"George Bell",Corporate,12/03/2012,Returned
+48615,"George Bell",Corporate,12/03/2012,Returned
+48931,"Charles Sheldon",Corporate,6/17/2009,Returned
+48931,"Charles Sheldon",Corporate,6/17/2009,Returned
+48931,"Charles Sheldon",Corporate,6/17/2009,Returned
+49412,"Dennis Bolton","Small Business",03/07/2009,Returned
+49924,"Edward Nazzal","Home Office",5/25/2011,Returned
+49924,"Edward Nazzal","Home Office",5/25/2011,Returned
+50307,"Bill Overfelt",Corporate,10/15/2010,Returned
+50307,"Bill Overfelt",Corporate,10/15/2010,Returned
+50374,"Susan Vittorini","Home Office",5/30/2009,Returned
+50501,"John Dryer",Corporate,5/29/2009,Returned
+50564,"Julie Prescott","Home Office",03/02/2012,Returned
+50721,"Jennifer Halladay","Home Office",2/27/2012,Returned
+50818,"Neoma Murray","Small Business",10/06/2012,Returned
+51302,"Tracy Collins",Consumer,8/24/2011,Returned
+51559,"David Philippe",Consumer,03/04/2012,Returned
+51876,"Victor Price",Consumer,03/06/2012,Returned
+52035,"Roy Skaria",Corporate,11/27/2009,Returned
+52068,"Peter Fuller",Corporate,1/13/2012,Returned
+52068,"Peter Fuller",Corporate,1/13/2012,Returned
+52068,"Peter Fuller",Corporate,1/13/2012,Returned
+52068,"Peter Fuller",Corporate,1/13/2012,Returned
+52258,"Thais Sissman","Small Business",02/10/2009,Returned
+54119,"Monica Federle",Corporate,5/22/2010,Returned
+54119,"Monica Federle",Corporate,5/22/2010,Returned
+54215,"Denny Ordway","Small Business",10/21/2011,Returned
+54371,"Toby Knight",Corporate,2/15/2012,Returned
+54371,"Toby Knight",Corporate,2/15/2012,Returned
+54563,"Fred Hopkins","Home Office",10/04/2010,Returned
+55172,"Katherine Nockton",Corporate,12/03/2010,Returned
+55203,"Natalie Webber",Corporate,04/11/2010,Returned
+55235,"Jane Waco",Corporate,10/06/2010,Returned
+55330,"Brad Thomas",Corporate,08/12/2009,Returned
+55747,"John Lucas","Small Business",12/02/2012,Returned
+55747,"John Lucas","Small Business",12/02/2012,Returned
+55874,"Erica Smith","Small Business",2/16/2009,Returned
+55874,"Erica Smith","Small Business",2/16/2009,Returned
+56612,"Joseph Airdo",Consumer,7/22/2009,Returned
+56930,"Eva Jacobs","Home Office",8/17/2012,Returned
+56930,"Eva Jacobs","Home Office",8/17/2012,Returned
+56931,"Dionis Lloyd","Small Business",02/03/2010,Returned
+57190,"Dave Poirier","Small Business",5/28/2010,Returned
+57190,"Dave Poirier","Small Business",5/28/2010,Returned
+57248,"Damala Kotsonis",Corporate,10/15/2009,Returned
+57253,"Darren Budd",Consumer,01/05/2009,Returned
+57253,"Darren Budd",Consumer,01/05/2009,Returned
+57253,"Darren Budd",Consumer,01/05/2009,Returned
+57253,"Darren Budd",Consumer,01/05/2009,Returned
+57253,"Darren Budd",Consumer,01/05/2009,Returned
+58500,"Christina DeMoss","Home Office",2/14/2011,Returned
+58566,"Julia Dunbar",Consumer,8/23/2011,Returned
+58566,"Julia Dunbar",Consumer,8/23/2011,Returned
+59047,"Beth Thompson",Corporate,1/28/2011,Returned
+59047,"Beth Thompson",Corporate,1/28/2011,Returned
+59139,"Helen Wasserman","Home Office",1/29/2011,Returned
+59139,"Helen Wasserman","Home Office",1/29/2011,Returned
+59171,"Phillip Breyer",Corporate,09/12/2011,Returned
+59652,"Anna Chung","Home Office",1/27/2011,Returned
+135,NULL,NULL,NULL,Returned
+1127,NULL,NULL,NULL,Returned
+28003,"Charles McCrossin",Corporate,3/19/2011,Returned
+28291,"Carl Weiss",Consumer,03/04/2009,Returned
+28419,"Rachel Payne",Consumer,10/31/2009,Returned
+29095,"Delfina Latchford","Small Business",03/08/2011,Returned
+30469,"Cindy Chapman",Corporate,12/25/2012,Returned
+31232,"Eleni McCrary","Home Office",8/29/2012,Returned
+32931,"Shaun Chance",Corporate,2/15/2010,Returned
+32931,"Shaun Chance",Corporate,2/15/2010,Returned
+32998,"Guy Thornton",Corporate,9/29/2010,Returned
+33283,"Frank Hawley","Home Office",3/20/2010,Returned
+33317,"Jay Fine",Consumer,05/11/2009,Returned
+33317,"Jay Fine",Consumer,05/11/2009,Returned
+33317,"Jay Fine",Consumer,05/11/2009,Returned
+33317,"Jay Fine",Consumer,05/11/2009,Returned
+33510,"Vivek Grady",Corporate,12/02/2011,Returned
+33510,"Vivek Grady",Corporate,12/02/2011,Returned
+33541,"John Lucas","Small Business",6/19/2012,Returned
+34209,"Ritsa Hightower",Corporate,8/24/2010,Returned
+34209,"Ritsa Hightower",Corporate,8/24/2010,Returned
+34532,"Carol Darley","Small Business",12/11/2012,Returned
+34661,"Nathan Mautz",Corporate,1/20/2010,Returned
+35877,"Erin Creighton",Corporate,5/25/2010,Returned
+35910,"Kristen Hastings",Corporate,11/24/2010,Returned
+35910,"Kristen Hastings",Corporate,11/24/2010,Returned
+35910,"Kristen Hastings",Corporate,11/24/2010,Returned
+35936,"Roy Phan",Corporate,1/21/2009,Returned
+35936,"Roy Phan",Corporate,1/21/2009,Returned
+36679,"Anna Haberlin",Corporate,8/30/2011,Returned
+37572,"Jas O'Carroll",Corporate,08/03/2010,Returned
+37760,"Barry Gonzalez","Small Business",8/14/2009,Returned
+37760,"Barry Gonzalez","Small Business",8/14/2009,Returned
+37862,"Guy Thornton",Corporate,01/12/2009,Returned
+38240,"Ken Lonsdale",Consumer,12/19/2009,Returned
+38240,"Ken Lonsdale",Consumer,12/19/2009,Returned
+39043,"Luke Schmidt","Home Office",12/22/2010,Returned
+39043,"Luke Schmidt","Home Office",12/22/2010,Returned
+39904,NULL,NULL,NULL,Returned
+39943,"Rick Wilson",Consumer,06/07/2012,Returned
+39943,"Rick Wilson",Consumer,06/07/2012,Returned
+40097,"Olvera Toch","Home Office",01/09/2009,Returned
+40160,"Julia West",Consumer,10/15/2009,Returned
+40806,"Barbara Fisher","Small Business",09/06/2011,Returned
+41059,"Lycoris Saunders",Corporate,9/14/2010,Returned
+41059,"Lycoris Saunders",Corporate,9/14/2010,Returned
+41059,"Lycoris Saunders",Corporate,9/14/2010,Returned
+41059,"Lycoris Saunders",Corporate,9/14/2010,Returned
+41186,"Aleksandra Gannaway",Corporate,11/22/2010,Returned
+43140,"Marc Harrigan","Home Office",3/18/2009,Returned
+43203,"Susan Vittorini","Home Office",2/14/2012,Returned
+44098,"John Grady",Corporate,1/27/2010,Returned
+44583,"Deanra Eno",Corporate,10/04/2009,Returned
+44583,"Deanra Eno",Corporate,10/04/2009,Returned
+44869,"Sonia Cooley",Corporate,8/22/2012,Returned
+45127,"Theresa Swint",Consumer,12/30/2012,Returned
+46052,"Bill Overfelt",Corporate,11/23/2009,Returned
+46052,"Bill Overfelt",Corporate,11/23/2009,Returned
+46311,"Peter Fuller",Consumer,7/25/2011,Returned
+46311,"Peter Fuller",Consumer,7/25/2011,Returned
+46311,"Peter Fuller",Consumer,7/25/2011,Returned
+46497,"Jane Waco",Corporate,6/19/2012,Returned
+47494,"Marc Crier",Consumer,07/01/2009,Returned
+47494,"Marc Crier",Consumer,07/01/2009,Returned
+47620,"Charles McCrossin",Corporate,6/26/2012,Returned
+48353,"Jeremy Pistek",Corporate,12/15/2012,Returned
+48710,"Cynthia Arntzen","Home Office",11/25/2009,Returned
+48775,"Craig Carroll",Corporate,09/06/2009,Returned
+49123,"Mick Crebagga",Corporate,2/25/2009,Returned
+49255,NULL,NULL,NULL,Returned
+49349,"Olvera Toch","Home Office",06/01/2011,Returned
+49349,"Olvera Toch","Home Office",06/01/2011,Returned
+49510,"Luke Weiss",Corporate,3/20/2012,Returned
+50246,"Darren Powers",Corporate,8/18/2010,Returned
+50663,"Jim Kriz",Consumer,11/09/2010,Returned
+50789,"Tracy Collins",Consumer,03/12/2011,Returned
+50850,"Greg Guthrie","Small Business",05/06/2009,Returned
+50914,"Carlos Daly",Corporate,07/03/2012,Returned
+51271,"Tim Brockman",Consumer,10/25/2010,Returned
+51271,"Tim Brockman",Consumer,10/25/2010,Returned
+51879,"Monica Federle",Corporate,8/24/2010,Returned
+51879,"Monica Federle",Corporate,8/24/2010,Returned
+52608,"Thea Hudgings",Consumer,1/21/2009,Returned
+52678,"Jonathan Doherty",Corporate,7/29/2012,Returned
+53536,"Sanjit Chand","Home Office",10/30/2012,Returned
+53536,"Sanjit Chand","Home Office",10/30/2012,Returned
+54086,"Denny Ordway","Small Business",09/06/2012,Returned
+54151,"Amy Cox","Small Business",09/02/2009,Returned
+54339,"Alan Hwang",Corporate,05/02/2012,Returned
+54339,"Alan Hwang",Corporate,05/02/2012,Returned
+54368,"Kimberly Carter","Small Business",11/01/2011,Returned
+54368,"Kimberly Carter","Small Business",11/01/2011,Returned
+54721,"Liz Willingham",Corporate,10/18/2012,Returned
+55623,"Jack Garza",Corporate,10/05/2012,Returned
+55808,"Ed Braxton","Home Office",2/14/2011,Returned
+55808,"Ed Braxton","Home Office",2/14/2011,Returned
+56101,"Bill Donatelli",Corporate,7/19/2010,Returned
+56101,"Bill Donatelli",Corporate,7/19/2010,Returned
+56901,"Paul MacIntyre",Corporate,09/11/2009,Returned
+57600,"Grant Carroll","Small Business",11/11/2012,Returned
+57600,"Grant Carroll","Small Business",11/11/2012,Returned
+57600,"Grant Carroll","Small Business",11/11/2012,Returned
+57986,"Dennis Bolton","Small Business",10/29/2010,Returned
+58372,"Brian Stugart",Corporate,04/02/2011,Returned
+58372,"Brian Stugart",Corporate,04/02/2011,Returned
+58725,"Joel Jenkins",Corporate,5/20/2010,Returned
+58818,"James Galang",Consumer,4/15/2009,Returned
+58818,"James Galang",Consumer,4/15/2009,Returned
+58949,"Tony Sayre","Small Business",12/16/2012,Returned
+59585,"Edward Hooks",Consumer,9/22/2012,Returned
+13729,NULL,NULL,NULL,Returned
+28037,"Maxwell Schwartz",Corporate,12/12/2009,Returned
+28387,"Maureen Gastineau",Consumer,6/29/2012,Returned
+28387,"Maureen Gastineau",Consumer,6/29/2012,Returned
+28544,"Annie Thurman",Consumer,8/28/2012,Returned
+29318,"Bobby Odegard",Corporate,6/30/2011,Returned
+29376,"Karen Seio",Consumer,08/11/2012,Returned
+29380,"Anna Gayman",Corporate,4/27/2009,Returned
+29505,"Brad Thomas","Home Office",12/27/2012,Returned
+29991,"Ryan Crowe","Small Business",10/05/2012,Returned
+30176,"Amy Hunt","Home Office",4/19/2009,Returned
+33477,"Duane Huffman","Small Business",10/19/2012,Returned
+33637,"Michael Oakman","Small Business",11/24/2012,Returned
+34689,"Brad Thomas","Home Office",11/23/2009,Returned
+35047,"Charlotte Melton","Home Office",06/09/2010,Returned
+35110,"Mike Caudle",Corporate,10/18/2011,Returned
+35110,"Mike Caudle",Corporate,10/18/2011,Returned
+35111,"Sung Pak","Small Business",06/05/2010,Returned
+35744,"Tonja Turnell",Consumer,3/21/2009,Returned
+36038,"Alex Russell","Home Office",8/16/2012,Returned
+36160,"Bryan Spruell","Home Office",11/22/2012,Returned
+36449,"Bruce Stewart",Corporate,09/05/2010,Returned
+36449,"Bruce Stewart",Corporate,09/05/2010,Returned
+36449,"Bruce Stewart",Corporate,09/05/2010,Returned
+36609,"Brad Thomas","Home Office",5/14/2009,Returned
+36707,"Charlotte Melton","Home Office",11/29/2009,Returned
+36743,"Laurel Elliston","Home Office",09/08/2012,Returned
+36773,"John Murray","Small Business",9/23/2010,Returned
+36998,"Christine Abelman",Corporate,9/29/2012,Returned
+36998,"Christine Abelman",Corporate,9/29/2012,Returned
+36998,"Christine Abelman",Corporate,9/29/2012,Returned
+37380,"Fred Harton","Home Office",04/01/2011,Returned
+37380,"Fred Harton","Home Office",04/01/2011,Returned
+37924,"Philip Fox","Home Office",11/29/2009,Returned
+37924,"Philip Fox","Home Office",11/29/2009,Returned
+38050,"Luke Schmidt","Home Office",10/26/2010,Returned
+38050,"Luke Schmidt","Home Office",10/26/2010,Returned
+38050,"Luke Schmidt","Home Office",10/26/2010,Returned
+38272,"Sarah Foster",Corporate,11/15/2011,Returned
+38661,"Duane Noonan",Corporate,02/12/2012,Returned
+38661,"Duane Noonan",Corporate,02/12/2012,Returned
+39169,"Noel Staavos","Home Office",8/26/2011,Returned
+39333,"Michelle Ellison",Consumer,2/17/2010,Returned
+39333,"Michelle Ellison",Consumer,2/17/2010,Returned
+39490,"Ashley Jarboe","Small Business",08/12/2012,Returned
+39490,"Ashley Jarboe","Small Business",08/12/2012,Returned
+40134,"Shahid Hopkins","Small Business",10/09/2011,Returned
+40134,"Shahid Hopkins","Small Business",10/09/2011,Returned
+40134,"Shahid Hopkins","Small Business",10/09/2011,Returned
+40802,"Scott Cohen",Consumer,09/03/2012,Returned
+41120,"Darren Budd",Consumer,07/07/2012,Returned
+41760,"Erica Smith","Small Business",1/27/2012,Returned
+41760,"Erica Smith","Small Business",1/27/2012,Returned
+41760,"Erica Smith","Small Business",1/27/2012,Returned
+41760,"Erica Smith","Small Business",1/27/2012,Returned
+42342,"Bill Eplett",Corporate,09/04/2009,Returned
+42342,"Bill Eplett",Corporate,09/04/2009,Returned
+42436,"Becky Pak",Corporate,08/09/2012,Returned
+42788,NULL,NULL,NULL,Returned
+42823,"Steve Chapman",Corporate,6/25/2010,Returned
+42912,"Craig Molinari","Small Business",05/04/2010,Returned
+43585,"Stephanie Ulpright",Consumer,11/10/2010,Returned
+43713,"Odella Nelson","Small Business",09/07/2012,Returned
+44292,"Frank Atkinson",Corporate,6/14/2011,Returned
+44579,"Clytie Kelty","Small Business",06/03/2011,Returned
+45767,"Nick Crebassa",Corporate,07/10/2012,Returned
+45794,"Rick Bensley",Consumer,9/24/2011,Returned
+46375,"Parhena Norris","Home Office",8/26/2010,Returned
+46375,"Parhena Norris","Home Office",8/26/2010,Returned
+47078,"Karen Seio",Consumer,4/19/2010,Returned
+47078,"Karen Seio",Consumer,4/19/2010,Returned
+47078,"Karen Seio",Consumer,4/19/2010,Returned
+47079,"Ed Braxton","Home Office",12/16/2011,Returned
+47109,NULL,NULL,NULL,Returned
+47138,"Benjamin Patterson",Corporate,01/09/2009,Returned
+47174,"Maria Bertelson",Corporate,9/16/2011,Returned
+47271,NULL,NULL,NULL,Returned
+47813,"Dianna Arnett","Home Office",8/27/2009,Returned
+48293,"Victoria Pisteka",Corporate,04/09/2012,Returned
+48448,"Joel Eaton","Home Office",11/16/2012,Returned
+48773,NULL,NULL,NULL,Returned
+49026,"Roland Fjeld",Corporate,03/07/2011,Returned
+49027,"Fred Harton","Home Office",04/11/2011,Returned
+49762,"Fred Chung",Corporate,6/15/2011,Returned
+49797,"Lena Radford","Small Business",03/08/2011,Returned
+49797,"Lena Radford","Small Business",03/08/2011,Returned
+50566,"Dan Lawera",Corporate,09/07/2011,Returned
+51239,"Katharine Harms",Consumer,2/23/2012,Returned
+51553,"Adrian Barton","Small Business",11/27/2011,Returned
+51553,"Adrian Barton","Small Business",11/27/2011,Returned
+51553,"Adrian Barton","Small Business",11/27/2011,Returned
+52288,"Kimberly Carter","Home Office",08/10/2011,Returned
+52518,"Roy Phan",Consumer,04/03/2012,Returned
+52611,"Cathy Prescott",Corporate,4/25/2011,Returned
+53600,"Roland Black","Small Business",07/10/2012,Returned
+54243,"Amy Cox","Home Office",9/16/2009,Returned
+54595,"Erica Hernandez","Small Business",4/28/2009,Returned
+54595,"Erica Hernandez","Small Business",4/28/2009,Returned
+55526,"Guy Thornton",Corporate,07/02/2012,Returned
+55968,"Carol Triggs","Home Office",9/30/2012,Returned
+56257,"Gary McGarr","Home Office",09/09/2011,Returned
+56387,"Brian Dahlen","Small Business",5/20/2011,Returned
+56387,"Brian Dahlen","Small Business",5/20/2011,Returned
+56514,"Shirley Daniels",Corporate,02/11/2012,Returned
+56514,"Shirley Daniels",Corporate,02/11/2012,Returned
+56582,"Harold Pawlan","Small Business",06/12/2009,Returned
+56582,"Harold Pawlan","Small Business",06/12/2009,Returned
+56582,"Harold Pawlan","Small Business",06/12/2009,Returned
+56768,"Giulietta Dortch",Corporate,7/27/2011,Returned
+56768,"Giulietta Dortch",Corporate,7/27/2011,Returned
+57638,"Christy Brittain",Consumer,4/22/2012,Returned
+57638,"Christy Brittain",Consumer,4/22/2012,Returned
+57638,"Christy Brittain",Consumer,4/22/2012,Returned
+58368,"Doug Bickford",Corporate,07/09/2012,Returned
+58368,"Doug Bickford",Corporate,07/09/2012,Returned
+58368,"Doug Bickford",Corporate,07/09/2012,Returned
+58688,"Grant Carroll","Small Business",3/29/2009,Returned
+59683,NULL,NULL,NULL,Returned
+59879,"Karen Bern",Corporate,03/09/2009,Returned
+59937,"John Stevenson","Small Business",12/28/2009,Returned
+29410,"Linda Cazamias",Corporate,9/17/2009,Returned
+29410,"Linda Cazamias",Corporate,9/17/2009,Returned
+30403,"Emily Grady","Home Office",07/10/2012,Returned
+30403,"Emily Grady","Home Office",07/10/2012,Returned
+31073,"Arthur Prichep","Home Office",7/25/2010,Returned
+31073,"Arthur Prichep","Home Office",7/25/2010,Returned
+31303,"Dianna Arnett","Home Office",3/20/2011,Returned
+32582,"Tony Chapman",Consumer,6/25/2009,Returned
+32966,"Steven Cartwright","Home Office",1/26/2012,Returned
+32966,"Steven Cartwright","Home Office",1/26/2012,Returned
+35588,"Cathy Prescott",Corporate,6/13/2010,Returned
+36676,"Mitch Willingham",Corporate,8/25/2011,Returned
+36676,"Mitch Willingham",Corporate,8/25/2011,Returned
+36932,"Troy Blackwell","Home Office",07/07/2009,Returned
+36934,"Brooke Gillingham","Small Business",12/22/2009,Returned
+36934,"Brooke Gillingham","Small Business",12/22/2009,Returned
+36934,"Brooke Gillingham","Small Business",12/22/2009,Returned
+37414,"Ben Wallace","Home Office",09/09/2011,Returned
+38787,"Trudy Bell",Consumer,08/05/2011,Returned
+39555,"Naresj Patel",Corporate,09/04/2012,Returned
+39619,"Ken Black",Consumer,01/04/2012,Returned
+39872,"Sandra Glassco","Home Office",2/22/2010,Returned
+40354,"Patrick Jones","Home Office",01/03/2009,Returned
+40354,"Patrick Jones","Home Office",01/03/2009,Returned
+41508,"Liz Willingham","Home Office",9/24/2010,Returned
+41861,"Kalyca Meade",Corporate,11/26/2010,Returned
+42563,"Jeremy Pistek",Corporate,08/12/2010,Returned
+42628,NULL,NULL,NULL,Returned
+42850,"Julie Prescott","Home Office",6/21/2011,Returned
+43138,"Matt Collister","Home Office",3/14/2012,Returned
+43138,"Matt Collister","Home Office",3/14/2012,Returned
+44962,"Toby Swindell","Small Business",12/28/2009,Returned
+45605,"Nora Paige","Small Business",04/10/2010,Returned
+45632,"Michelle Ellison","Small Business",05/10/2010,Returned
+45698,"Jay Kimmel","Small Business",4/23/2012,Returned
+45698,"Jay Kimmel","Small Business",4/23/2012,Returned
+46341,"Astrea Jones",Corporate,12/17/2009,Returned
+47265,"Ben Wallace","Home Office",12/10/2011,Returned
+47457,"Alejandro Savely",Corporate,06/03/2009,Returned
+47621,"David Kendrick","Home Office",07/11/2009,Returned
+48295,"Bryan Mills","Small Business",11/23/2009,Returned
+48391,"Nick Crebassa",Corporate,10/29/2010,Returned
+48486,"Frank Merwin",Corporate,05/12/2011,Returned
+49668,"Michelle Ellison","Home Office",12/02/2009,Returned
+49830,"Ionia McGrath","Small Business",07/09/2009,Returned
+49830,"Ionia McGrath","Small Business",07/09/2009,Returned
+49988,"Helen Wasserman","Home Office",12/20/2010,Returned
+49988,"Helen Wasserman","Home Office",12/20/2010,Returned
+49988,"Helen Wasserman","Home Office",12/20/2010,Returned
+50048,"Chad Sievert",Corporate,1/18/2010,Returned
+50081,"Guy Armstrong",Corporate,11/03/2009,Returned
+50083,"John Castell","Small Business",04/08/2011,Returned
+50087,"Patrick Ryan",Corporate,5/15/2010,Returned
+50147,"Denise Monton","Home Office",10/08/2009,Returned
+50147,"Denise Monton","Home Office",10/08/2009,Returned
+50432,"Jim Epp","Small Business",06/07/2009,Returned
+50432,"Jim Epp","Small Business",06/07/2009,Returned
+50823,"Nancy Lomonaco","Home Office",7/21/2009,Returned
+51075,"Carlos Soltero","Small Business",11/23/2010,Returned
+51554,"Liz Pelletier","Home Office",3/26/2009,Returned
+51554,"Liz Pelletier","Home Office",3/26/2009,Returned
+51940,NULL,NULL,NULL,Returned
+52327,"Patrick O'Donnell","Home Office",12/20/2011,Returned
+52327,"Patrick O'Donnell","Home Office",12/20/2011,Returned
+52805,"Vivek Grady",Corporate,9/28/2011,Returned
+53285,"Eudokia Martin","Home Office",5/24/2012,Returned
+53767,NULL,NULL,NULL,Returned
+54245,"Cari MacIntyre",Corporate,3/24/2011,Returned
+54755,"Matt Collister","Home Office",12/07/2009,Returned
+54787,"Cassandra Brandow","Home Office",2/24/2011,Returned
+54914,"Duane Huffman","Small Business",8/28/2011,Returned
+54914,"Duane Huffman","Small Business",8/28/2011,Returned
+55616,"Joni Wasserman",Consumer,05/08/2011,Returned
+55618,"Brian Moss",Corporate,1/21/2012,Returned
+55776,"Dean Braden",Corporate,3/22/2009,Returned
+55877,"Erin Mull",Corporate,02/02/2010,Returned
+55877,"Erin Mull",Corporate,02/02/2010,Returned
+56128,"Hallie Redmond","Small Business",7/30/2010,Returned
+56128,"Hallie Redmond","Small Business",7/30/2010,Returned
+56452,"Charles Crestani",Consumer,2/14/2009,Returned
+56769,NULL,NULL,NULL,Returned
+56868,"Bobby Trafton",Corporate,12/03/2011,Returned
+57157,"Maya Herman",Corporate,2/26/2012,Returned
+57440,"Rob Williams","Home Office",7/23/2010,Returned
+57510,"Liz Carlisle",Corporate,12/10/2011,Returned
+58470,"Barry Blumstein","Small Business",06/08/2011,Returned
+58470,"Barry Blumstein","Small Business",06/08/2011,Returned
+58470,"Barry Blumstein","Small Business",06/08/2011,Returned
+58720,"Nathan Gelder","Home Office",03/07/2010,Returned
+58720,"Nathan Gelder","Home Office",03/07/2010,Returned
+59009,"Sally Hughsby",Consumer,11/18/2011,Returned
+59072,"Dianna Vittorini",Corporate,5/25/2009,Returned
+59072,"Dianna Vittorini",Corporate,5/25/2009,Returned
+59072,"Dianna Vittorini",Corporate,5/25/2009,Returned
+59072,"Dianna Vittorini",Corporate,5/25/2009,Returned
+59680,"Katherine Hughes",Consumer,6/18/2012,Returned
+59776,"Maxwell Schwartz",Corporate,03/09/2009,Returned
+59776,"Maxwell Schwartz",Corporate,03/09/2009,Returned
